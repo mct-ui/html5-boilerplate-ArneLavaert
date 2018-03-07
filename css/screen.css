@@ -152,6 +152,10 @@ a:hover, a:focus {
     html {
         padding: 48px 48px 24px;
     }
+    body {
+        max-width: 42em;
+        margin: 0 auto;
+    }
 }
 
 /* Large devices (landscape tablets, desktops, 992px and up) */
